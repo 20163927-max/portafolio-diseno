@@ -102,7 +102,7 @@ section {
 .enlaces {
     list-style: none;
     display: flex;
-    gap: 60px; /* Espacio entre botones */
+    gap: 40px; /* Espacio entre botones */
     margin: 0;
 }
 
